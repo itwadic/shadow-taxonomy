@@ -1,5 +1,5 @@
 {
-	"name": "developwithwp/shadow-taxonomies",
+	"name": "itwadic/shadow-taxonomies",
 	"description": "A library used for create relationships between CPT's",
 	"version": "0.0.1",
 	"type": "package",
